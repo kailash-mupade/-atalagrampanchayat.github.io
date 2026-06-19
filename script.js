@@ -1,0 +1,1 @@
+console.log('Atala Gram Panchayat Website');
